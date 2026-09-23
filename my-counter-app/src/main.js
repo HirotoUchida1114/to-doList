@@ -25,7 +25,6 @@ btn2.addEventListener('click', () => {
   countEl.textContent = count;
 
 });
-
 btn3.addEventListener('click', () => {
   count = 0;
   countEl.textContent = count;
